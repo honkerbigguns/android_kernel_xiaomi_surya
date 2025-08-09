@@ -1,3 +1,6 @@
 [submodule "toolchain"]
 	path = toolchain
 	url = https://gitlab.com/crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-r536225
+[submodule "kali-nethunter-kernel-builder"]
+	path = kali-nethunter-kernel-builder
+	url = https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-kernel-builder
