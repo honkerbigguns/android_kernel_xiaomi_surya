@@ -71,6 +71,9 @@ modules.builtin
 #out directory
 /out/
 
+#modules directory for creating tarballs of .ko files
+/modules_compiled/
+
 #
 # tar directory (make tar*-pkg)
 #
